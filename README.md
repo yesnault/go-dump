@@ -6,7 +6,6 @@ Go-Dump is a package which helps you to dump a struct to `SdtOut`, any `io.Write
 
 ## Sample usage
 
-
 ````golang
 type T struct {
     A int
